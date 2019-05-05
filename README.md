@@ -6,9 +6,16 @@ I am following the Airbnb.io programming StyleGuide: https://github.com/airbnb/j
 
 # HOW TO USE THIS REPOSITORY: 
 
+Clone or download my repository. For rapid use, click on index.html and see the Jasmine test results at the bootom of this page. 
+Play around with app.js to see how your Jasmine test results alter. You can add additional tests. 
+For more information about Jasmine, visit: [Jasmine](http://jasmine.github.io/) 
+The dev hints are a must: https://devhints.io/jasmine 
+
+
+
 # Project Overview
 
-In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
+In this project students were given a web-based application that reads RSS feeds.  
 
 
 ## Why this Project?
