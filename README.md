@@ -1,3 +1,10 @@
+This project is part of my Udacity Nanodegree in Frontend-Web Development. We learned how to write Javascript tests with Jasmine. Jasmine is a framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. Jasmine can be used directly in your browser. I have decided to use this option. The Jasmin test results are displayed at the bottom of the index.html page. For larger applications and production versions, it is necessary to create this e.g. as a separate "specrunner.html" file for web development. Jasmine can also be used with node.js, python and gulp. You can find more information here, if you prefer this: 
+https://jasmine.github.io/pages/getting_started.html
+I am following the Airbnb.io programming StyleGuide: https://github.com/airbnb/javascript#comments
+
+
+# HOW TO USE THIS REPOSITORY: 
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
