@@ -6,7 +6,7 @@ I am following the Airbnb.io programming StyleGuide: https://github.com/airbnb/j
 
 # HOW TO USE THIS REPOSITORY: 
 
-Clone or download my repository. For rapid use, click on index.html and see the Jasmine test results at the bootom of this page. 
+Clone or download my repository. For rapid use, open index.html in your browser and see the Jasmine test results at the bootom of this page. 
 Play around with app.js to see how your Jasmine test results alter. You can add additional tests. 
 For more information about Jasmine, visit: [Jasmine](http://jasmine.github.io/) 
 The dev hints are a must: https://devhints.io/jasmine 
@@ -16,6 +16,17 @@ The dev hints are a must: https://devhints.io/jasmine
 # Project Overview
 
 In this project students were given a web-based application that reads RSS feeds.  
+
+# Tests
+
+A test that ensures that all allFeeds objects are defined.
+A test that ensures that all allFeeds objects have a URL defined and that the URL is not empty.
+A test that loops through each feed in the allFeeds object and ensures it has a name defined and that the name is not empty.
+A test that ensures the menu element is hidden by default.
+A test that ensures the menu changes visibility when the menu icon is clicked. Two expectations: does the menu display when clicked and does it hide when clicked again?
+A test that ensures when the loadFeed function is called and completes its work, there is at least a single .entry element within the .feed container.
+A test that ensures that the .entry-links start with "http://" or with "https://"
+A test that ensures when a new feed is loaded by the loadFeed function that the content actually changes.
 
 
 ## Why this Project?
