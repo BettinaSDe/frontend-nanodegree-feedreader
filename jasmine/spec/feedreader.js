@@ -77,7 +77,7 @@ $(function() {
       
       
         let myBody = document.body;
-        
+        /* I have changed "var" to "let" in app.js throughout the Udacity starter code (ES6!) */
 
 
       it('check if menu is hidden as default', function(){
