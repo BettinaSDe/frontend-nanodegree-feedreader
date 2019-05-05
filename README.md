@@ -1,3 +1,4 @@
+# FEEDREADER RED-GREEN REFACTORING TESTING WITH JASMINE
 This project is part of my Udacity Nanodegree in Frontend-Web Development. We learned how to write Javascript tests with Jasmine. Jasmine is a framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. Jasmine can be used directly in your browser. I have decided to use this option. The Jasmin test results are displayed at the bottom of the index.html page. For larger applications and production versions, it is necessary to create this e.g. as a separate "specrunner.html" file for web development. Jasmine can also be used with node.js, python and gulp. You can find more information here, if you prefer this: 
 https://jasmine.github.io/pages/getting_started.html
 I am following the Airbnb.io programming StyleGuide: https://github.com/airbnb/javascript#comments
