@@ -4,7 +4,7 @@ https://jasmine.github.io/pages/getting_started.html
 I am following the Airbnb.io programming StyleGuide: https://github.com/airbnb/javascript#comments
 
 
-# HOW TO USE THIS REPOSITORY: 
+# How to use this repository: 
 
 Clone or download my repository. For rapid use, open index.html in your browser and see the Jasmine test results at the bootom of this page. 
 Play around with app.js to see how your Jasmine test results alter. You can add additional tests. 
@@ -97,4 +97,4 @@ When you're all finished, write a `README` file detailing all steps required to 
 
 # Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This repository is the starter code for _all_ Udacity students. Therefore, Udacity most likely will not accept pull requests.
